@@ -2,6 +2,7 @@
 
 Integrantes:
 1.Carlos Medina
+
 2.Jorge Díaz
 
 ## Segundo bimestre
