@@ -1,4 +1,9 @@
 # Trabajo clases 07
+
+Integrantes:
+Carlos Medina
+Jorge Díaz
+
 ## Segundo bimestre
 
 ## Áreas de las Ciencias de la Computación
