@@ -1,9 +1,10 @@
 # Trabajo clases 07
 
 Integrantes:
-1.Carlos Medina
 
-2.Jorge Díaz
+1. Carlos Medina
+
+2. Jorge Díaz
 
 ## Segundo bimestre
 
